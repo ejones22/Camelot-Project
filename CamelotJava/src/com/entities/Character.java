@@ -17,7 +17,7 @@ public class Character<BodyType> implements IEntity, IThing {
 	}
 	
 	public enum Clothing{
-		Bandit, Beggar, HeavyArmour, LightArmour, Merchant, Noble, Naked, Peasant, Priest
+		Bandit, Beggar, HeavyArmour, LightArmour, Merchant, Noble, Naked, Peasant, Priest, Queen, Witch, King, Warlock
 	}
 	
 	public Character(String name){
